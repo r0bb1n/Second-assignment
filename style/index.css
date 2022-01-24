@@ -42,5 +42,17 @@ li a {
 }
 
 body {
-    background-color: #89b0ae;
+    background-image: url(../images/light.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: chocolate;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px;
 }
