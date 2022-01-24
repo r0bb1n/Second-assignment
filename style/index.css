@@ -1,0 +1,46 @@
+#button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4ecdc4;
+}
+
+#button-link {
+    text-decoration: none;
+    color: #f7fff7;
+}
+
+.text {
+    color: #1a535c;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+}
+
+body {
+    background-color: #89b0ae;
+}
